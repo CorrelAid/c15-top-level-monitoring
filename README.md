@@ -1,5 +1,9 @@
 # Challenge 15: Top-level Monitoring QA
 
+## Code
+Code file used in this challenge is the Notebook c15_monitoring.ipynb in the code folder, with requirements in the txt file.
+The main ideas/problems for this challenge can be found below.
+
 ## Expected input
 
 * Frequency tables on replies of questions
